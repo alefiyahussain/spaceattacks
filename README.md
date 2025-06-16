@@ -1,6 +1,6 @@
-# Satellite Ground Station Visibility Analysis
+# Satellite Visibility and Cybersecurity Threat Analysis
 
-This project provides tools for visualizing satellite orbits and analyzing Line of Sight (LoS) visibility between satellites and ground stations. It uses Cesium for 3D visualization and Skyfield for accurate orbital calculations.
+This project provides tools for visualizing satellite orbits and analyzing Line of Sight (LoS) visibility between satellites and ground stations. It utilizes Cesium for 3D visualization and Skyfield for precise orbital calculations, alongside analyzing potential cybersecurity threats and attack vectors.
 
 ## Features
 
